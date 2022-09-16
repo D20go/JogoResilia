@@ -119,18 +119,21 @@ todas as vacinas. Quero ver você acertando todas as perguntas, hein? Vamos come
 
 ### **Passeando no Jardim**<center>
 ```
-Lico inicia a trajetória rumo ao castelo fantástico: lugar enigmático recheado de crianças saudáveis e vacinadas. 
-Ele está no jardim, onde terá que encontrar o primeiro pedaço do mapa que o conduzirá ao portal da floresta. 
+Lico inicia a trajetória rumo ao castelo fantástico: lugar enigmático recheado de crianças 
+saudáveis e vacinadas. Ele está no jardim, onde terá que encontrar o primeiro pedaço do mapa
+que o conduzirá ao portal da floresta. 
 
--------------------------------------------------------------------------------------------------------------------
-Para isso, precisa localizar Alice, uma fada bem sapeca que possui a chave de bronze que abre o portal. 
-Para ter acesso a chave, Lico precisa convencer a fada a liberar o primeiro pedaço do mapa que conduz ao 
-castelo, mas ela só fará isso se acertarmos a pergunta de vacinação infantil. 
+---------------------------------------------------------------------------------------------
+Para isso, precisa localizar Alice, uma fada bem sapeca que possui a chave de bronze que abre
+o portal. Para ter acesso a chave, Lico precisa convencer a fada a liberar o primeiro pedaço 
+do mapa que conduz ao castelo, mas ela só fará isso se acertarmos a pergunta de vacinação
+infantil. 
 
---------------------------------------------------------------------------------------------------------------------
-A Cuca, monstrinho do jardim, pode aparecer a qualquer momento. Seu objetivo é espalhar notícias falsas sobre vacinação
-infantil para levar nosso personagem ao Castelo proibido das Fake News, te prendendo para sempre. Por isso, acerte os 
-testes e avance no jogo, ou erre as perguntas e fique preso no castelo da Cuca.
+---------------------------------------------------------------------------------------------
+A Cuca, monstrinho do jardim, pode aparecer a qualquer momento. Seu objetivo é espalhar 
+notícias falsas sobre vacinação infantil para levar nosso personagem ao Castelo proibido das 
+Fake News, te prendendo para sempre. Por isso, acerte os testes e avance no jogo, ou erre as 
+perguntas e fique preso no castelo da Cuca.
 ```  
 
 ### Pergunta 1
