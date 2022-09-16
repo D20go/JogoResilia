@@ -20,7 +20,9 @@
 ​​​​💭 [Science Direct: clique aqui](https://www.sciencedirect.com/science/article/pii/S1201971220305270) 
 
 
-![Destaques](VACINA_PRINT.png)
+![Destaques](https://user-images.githubusercontent.com/78969637/190718852-3259b593-2c5a-4044-802b-53ab80e2d86f.png)
+
+
    
 
 ----
@@ -118,7 +120,8 @@ A Cuca, monstrinho do jardim, pode aparecer a qualquer momento. Seu objetivo é 
 ```  
 
 ### Pergunta 1
-![pergunta](PERGUNTA.png)
+![PERGUNTA](https://user-images.githubusercontent.com/78969637/190719397-18685f06-c814-48be-bec4-49b4d002714a.png)
+
                               
 
 ### <center>**__CENÁRIOS DO JOGO__**
