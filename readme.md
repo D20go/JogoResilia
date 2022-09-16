@@ -41,18 +41,20 @@
 
 #### ​​​​​1 - Ler roteiro do jogo ​​: 
 ```python
-Um personagem está numa terra encantada recheada de seres mágicos que o ajudarão a chegar ao CASTELO FANTÁSTICO
-DAS CRIANÇAS. Para chegar ao castelo, nosso personagem deve completar um mapa através das perguntas que acerta 
-em cada cenário do jogo: jardim, floresta, deserto e montanha.   
+Um personagem está numa terra encantada recheada de seres mágicos que o ajudarão a chegar ao CASTELO 
+FANTÁSTICO DAS CRIANÇAS. Para chegar ao castelo, nosso personagem deve completar um mapa através das
+perguntas que acerta em cada cenário do jogo: jardim, floresta, deserto e montanha.   
  
-A cada acerto, uma parte do mapa é revelado e uma chave é dada pelo guardião do local. Essa chave pode ser de 
-bronze, prata, ouro ou diamante e abre um portal para que nosso personagem avance no jogo. Se errar a pergunta,
-nosso personagem é recebido por monstros imaginários. Nesse caso, a Cuca, o Gasparzinho, o Curupira e o Rei de Copas 
-tentarão enviar o nosso querido personagem para um dos quatro castelos proibidos: Castelo das Fake News, Castelo da 
-Teoria da Conspiração, Castelo Antivacina e Castelo da Doença. 
+A cada acerto, uma parte do mapa é revelado e uma chave é dada pelo guardião do local. Essa chave pode 
+ser de bronze, prata, ouro ou diamante e abre um portal para que nosso personagem avance no jogo. Se 
+errar a pergunta, nosso personagem é recebido por monstros imaginários. Nesse caso, a Cuca, o Gasparzinho,
+o Curupira e o Rei de Copas tentarão enviar o nosso querido personagem para um dos quatro castelos 
+proibidos: Castelo das Fake News, Castelo da Teoria da Conspiração, Castelo Antivacina e Castelo da 
+Doença. 
 
-Nosso dever é ajudar nosso personagem a chegar ao Castelo Fantástico das crianças em total segurança, pois os monstrinhos 
-imaginários querem infectá-lo e prendê-lo no castelo proibido para sempre. Vamos brincar? 
+Nosso dever é ajudar nosso personagem a chegar ao Castelo Fantástico das crianças em total segurança, 
+pois os monstrinhos imaginários querem infectá-lo e prendê-lo no castelo proibido para sempre. 
+Vamos brincar? 
 ```
 
 
