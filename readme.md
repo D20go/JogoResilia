@@ -115,7 +115,7 @@ todas as vacinas. Quero ver você acertando todas as perguntas, hein? Vamos come
         [2] Iniciar jogo com esse personagem
 ```
 
-### <center>**Passeando no Jardim**
+### **Passeando no Jardim**<center>
 ```
 Lico inicia a trajetória rumo ao castelo fantástico: lugar enigmático recheado de crianças saudáveis e vacinadas. 
 Ele está no jardim, onde terá que encontrar o primeiro pedaço do mapa que o conduzirá ao portal da floresta. 
@@ -136,7 +136,7 @@ testes e avance no jogo, ou erre as perguntas e fique preso no castelo da Cuca.
 
                               
 
-### <center>**__CENÁRIOS DO JOGO__**
+### <center>**__CENÁRIOS DO JOGO__**<center>
 | cenário | imagem |      
 | ------ | ------ |
 | **Passeando no jardim**| <img src="https://i.pinimg.com/564x/f3/31/20/f3312020653e66aeb403e92e485d718a.jpg" width="500" height="250" /> |
@@ -168,4 +168,4 @@ testes e avance no jogo, ou erre as perguntas e fique preso no castelo da Cuca.
 
 
 ### <center>**ENFIM, CHEGAMOS AO CASTELO FANTÁSTICO DAS CRIANÇAS VACINADAS** 🥳🎉
-<center><img src="https://i.pinimg.com/564x/f6/9b/ca/f69bca110e1d0378429435911d3f3b46.jpg" width="600" height="250" /> 
+<center><img src="https://i.pinimg.com/564x/f6/9b/ca/f69bca110e1d0378429435911d3f3b46.jpg" width="900" height="300" /> 
