@@ -158,7 +158,8 @@ testes e avance no jogo, ou erre as perguntas e fique preso no castelo da Cuca.
 
 ###### Patrick
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/kjcsilva/)](https://www.linkedin.com/in/kjcsilva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/kjcsilva/)](![PERGUNTA](https://user-images.githubusercontent.com/78969637/190726767-53e3c8f1-40e1-48b3-b691-a82e88d1e7ea.png)
+
 
 ###### Thiago
 
