@@ -1,5 +1,5 @@
 
-## <center>**Seja bem vindo ao universo divertido e fascinante do VACIKIDS**
+# <center>**Seja bem vindo ao universo divertido e fascinante do VACIKIDS**<center>
 <img src="https://media2.giphy.com/media/vc0KwAzlIHbAJfqEY0/200w.webp?cid=ecf05e47af50x9nyw7jd8owrje5iu0evclkin194dpdqn1vv&rid=200w.webp&ct=g" width="1000" height="" />
 
 ## ​​​​​📔​​ Ficha Catalográfica 
@@ -41,11 +41,18 @@
 
 #### ​​​​​1 - Ler roteiro do jogo ​​: 
 ```python
-Um personagem está numa terra encantada recheada de seres mágicos que o ajudarão a chegar ao CASTELO FANTÁSTICO DAS CRIANÇAS. Para chegar ao castelo, nosso personagem deve completar um mapa através das perguntas que acerta em cada cenário do jogo: jardim, floresta, deserto e montanha.  
+Um personagem está numa terra encantada recheada de seres mágicos que o ajudarão a chegar ao CASTELO FANTÁSTICO DAS CRIANÇAS. 
+Para chegar ao castelo, nosso personagem deve completar um mapa através das perguntas que acerta em cada cenário do jogo:
+jardim,floresta, deserto e montanha.   
+ 
+A cada acerto, uma parte do mapa é revelado e uma chave é dada pelo guardião do local. Essa chave pode ser de bronze, prata,
+ouro ou diamante e abre um portal para que nosso personagem avance no jogo. Se errar a pergunta, nosso personagem é recebido
+por monstros imaginários. Nesse caso, a Cuca, o Gasparzinho, o Curupira e o Rei de Copas tentarão enviar o nosso querido 
+personagem a um dos quatro castelos proibidos: Castelo das Fake News, Castelo da Teoria da Conspiração, Castelo Antivacina
+e Castelo da Doença. 
 
-A cada acerto, uma parte do mapa é revelado e uma chave é dada pelo guardião do local. Essa chave pode ser de bronze, prata, ouro ou diamante e abre um portal para que nosso personagem avance no jogo. Se errar a pergunta, o personagem é recebido por monstros imaginários. Nesse caso, a Cuca, o Gasparzinho, o Curupira e o Rei de Copas tentarão enviar o nosso querido personagem a um dos quatro castelos proibidos: Castelo das Fake News, Castelo da Teoria da Conspiração, Castelo Antivacina e Castelo da Doença. 
-
-Nosso dever é ajudar nosso personagem a chegar ao Castelo Fantástico das crianças em total segurança, pois os monstrinhos imaginários querem infectá-lo e prendê-lo no castelo proibido para sempre. Vamos brincar? 
+Nosso dever é ajudar nosso personagem a chegar ao Castelo Fantástico das crianças em total segurança, pois os monstrinhos 
+imaginários querem infectá-lo e prendê-lo no castelo proibido para sempre. Vamos brincar? 
 ```
 
 
@@ -110,13 +117,18 @@ todas as vacinas. Quero ver você acertando todas as perguntas, hein? Vamos come
 
 ### <center>**Passeando no Jardim**
 ```
-Lico inicia a trajetória rumo ao castelo fantástico: lugar enigmático recheado de crianças saudáveis e vacinadas. Ele está no jardim, onde terá que encontrar o primeiro pedaço do mapa que o conduzirá ao portal da floresta. 
+Lico inicia a trajetória rumo ao castelo fantástico: lugar enigmático recheado de crianças saudáveis e vacinadas. 
+Ele está no jardim, onde terá que encontrar o primeiro pedaço do mapa que o conduzirá ao portal da floresta. 
 
 -------------------------------------------------------------------------------------------------------------------
-Para isso, precisa localizar Alice, uma fada bem sapeca que possui a chave de bronze que abre o portal. Para ter acesso a chave, Lico precisa convencer a fada a liberar o primeiro pedaço do mapa que conduz ao castelo, mas ela só fará isso se acertarmos a pergunta de vacinação infantil. 
+Para isso, precisa localizar Alice, uma fada bem sapeca que possui a chave de bronze que abre o portal. 
+Para ter acesso a chave, Lico precisa convencer a fada a liberar o primeiro pedaço do mapa que conduz ao 
+castelo, mas ela só fará isso se acertarmos a pergunta de vacinação infantil. 
 
 --------------------------------------------------------------------------------------------------------------------
-A Cuca, monstrinho do jardim, pode aparecer a qualquer momento. Seu objetivo é espalhar notícias falsas sobre vacinação infantil para levar nosso personagem ao Castelo proibido das Fake News, te prendendo para sempre. Por isso, acerte os testes e avance no jogo, ou erre as perguntas e fique preso no castelo da Cuca
+A Cuca, monstrinho do jardim, pode aparecer a qualquer momento. Seu objetivo é espalhar notícias falsas sobre vacinação
+infantil para levar nosso personagem ao Castelo proibido das Fake News, te prendendo para sempre. Por isso, acerte os 
+testes e avance no jogo, ou erre as perguntas e fique preso no castelo da Cuca.
 ```  
 
 ### Pergunta 1
