@@ -158,7 +158,7 @@ testes e avance no jogo, ou erre as perguntas e fique preso no castelo da Cuca.
 
 ###### Patrick
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/kjcsilva/)](https://user-images.githubusercontent.com/78969637/190726767-53e3c8f1-40e1-48b3-b691-a82e88d1e7ea.png)
+[![Linkedin Badge](https://camo.githubusercontent.com/b5c1f1835cf70fec52b5d1ed2415f0f66d0ad9ec46f309f767ecc364db03614e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6a6f616f2d766963746f722d6a756c69616f2f)](https://www.linkedin.com/in/patryckharley/)
 
 
 ###### Thiago
