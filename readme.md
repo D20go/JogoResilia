@@ -48,7 +48,7 @@ jardim,floresta, deserto e montanha.
 A cada acerto, uma parte do mapa é revelado e uma chave é dada pelo guardião do local. Essa chave pode ser de bronze, prata,
 ouro ou diamante e abre um portal para que nosso personagem avance no jogo. Se errar a pergunta, nosso personagem é recebido
 por monstros imaginários. Nesse caso, a Cuca, o Gasparzinho, o Curupira e o Rei de Copas tentarão enviar o nosso querido 
-personagem a um dos quatro castelos proibidos: Castelo das Fake News, Castelo da Teoria da Conspiração, Castelo Antivacina
+personagem para um dos quatro castelos proibidos: Castelo das Fake News, Castelo da Teoria da Conspiração, Castelo Antivacinap
 e Castelo da Doença. 
 
 Nosso dever é ajudar nosso personagem a chegar ao Castelo Fantástico das crianças em total segurança, pois os monstrinhos 
