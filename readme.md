@@ -224,7 +224,7 @@ Escolha a alternativa correta:
 [C] A vacina é uma forma de escravizar todos os animais da nossa floresta
 -------------------------------------------------------------------------------------------------
 
-resolução: B
+resolução: A
 Zé Dorinho (apresentador do jogo): Parabéns! Pegue a chave de prata que abre o portal da 
 floresta e o segundo pedaço do mapa que te conduzirá ao castelo fantástico das crianças. 
 Boa sorte,amigo. Vai precisar!
