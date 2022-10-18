@@ -5,8 +5,8 @@
 ## ​​​​​📔​​ Ficha Catalográfica 
 ----
 
- 1- Conscientizar as crianças, pais e adolescentes sobre a importância da vacinação infantil  .  
- 2- Mostrar a importância da vacina como medida profilática na prevenção de doenças.   
+ 1- Conscientizar pais e adolescentes sobre a importância da vacinação infantil  .  
+ 2- Estimular o raciocínio da criança através de um jogo divertido e educativo que traz personagens do mundo da fantasia.   
  3- Aumentar o índice de vacinação nas crianças.
 
  ----
