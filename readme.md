@@ -63,9 +63,9 @@ Vamos brincar?
 
 #### ​​​​​2 - Escolher personagem​: 
 ---
-<img src="https://i.pinimg.com/564x/e9/b2/ba/e9b2bafe105482e3516d139c3d7f0b03.jpg" width="90" height="70" /> <img src="https://i.pinimg.com/564x/d9/40/85/d94085dd89f0c7d442eafb1017c54071.jpg" width="90" height="70" /> <img src="https://i.pinimg.com/564x/c5/61/b0/c561b0271420de59fe12ed2de068ff03.jpg" width="90" height="70" />
+<img src="https://i.pinimg.com/564x/e9/b2/ba/e9b2bafe105482e3516d139c3d7f0b03.jpg" width="150" height="150" /> <img src="https://i.pinimg.com/564x/d9/40/85/d94085dd89f0c7d442eafb1017c54071.jpg" width="150" height="150" /> <img src="https://i.pinimg.com/564x/c5/61/b0/c561b0271420de59fe12ed2de068ff03.jpg" width="150" height="150" />
 
-<img src="https://i.pinimg.com/736x/9e/bf/f6/9ebff6d89aefb97cda68c4ebd5297511.jpg" width="90" height="70" /><img src="https://i.pinimg.com/564x/93/56/57/935657aae3403fa3757e349f44698bd6.jpg" width="90" height="70" /><img src="https://m.media-amazon.com/images/I/41l8UILqgYL._AC_SY535_.jpg" width="90" height="70" />
+<img src="https://i.pinimg.com/736x/9e/bf/f6/9ebff6d89aefb97cda68c4ebd5297511.jpg" width="150" height="150" /><img src="https://i.pinimg.com/564x/93/56/57/935657aae3403fa3757e349f44698bd6.jpg" width="150" height="150" /><img src="https://m.media-amazon.com/images/I/41l8UILqgYL._AC_SY535_.jpg" width="150" height="150" />
 
 ---
 ```
@@ -77,8 +77,8 @@ Digite o código =
 
 #### 3 - Monstrinhos do Jogo
 
-<img src="https://i.pinimg.com/564x/aa/df/5f/aadf5f9b1d5dd600411e110c4d8f3d76.jpg" width="90" height="70" /> <img src="https://i.pinimg.com/564x/07/bc/cd/07bccd1a8bb4ee6f36aeb2b1cb04572f.jpg" width="90" height="70" /> <img src="https://i.pinimg.com/564x/40/f1/6b/40f16bd738a4cd61e4b5b2f40a07083e.jpg" width="90" height="70" />
-<img src="https://i.pinimg.com/564x/4b/62/a3/4b62a3feb3a5d7cd60e5e7146df02034.jpg" width="90" height="70" />
+<img src="https://i.pinimg.com/564x/aa/df/5f/aadf5f9b1d5dd600411e110c4d8f3d76.jpg" width="200" height="200" /> <img src="https://i.pinimg.com/564x/07/bc/cd/07bccd1a8bb4ee6f36aeb2b1cb04572f.jpg" width="200" height="200" /> <img src="https://i.pinimg.com/564x/40/f1/6b/40f16bd738a4cd61e4b5b2f40a07083e.jpg" width="200" height="200" />
+<img src="https://static.wikia.nocookie.net/nintendo/images/7/71/Bowser.png/revision/latest?cb=20130309232419&path-prefix=pt-br" width="200" height="200" />
 
 ```
 Monstrinhos do jogo:
@@ -90,8 +90,8 @@ Monstrinhos do jogo:
 
 #### ​​​​​4- Guardiões do Local​:
 ---
-<img src="https://i.pinimg.com/564x/81/42/cd/8142cd0dd5994b8234962e96aebf40be.jpg" width="90" height="70" /> <img src="https://i.pinimg.com/564x/05/3a/1b/053a1bf0756ccf37b51235a585c15384.jpg" width="90" height="70" /> <img src="https://i.pinimg.com/564x/72/38/cd/7238cd399668fa2e50f0508218b8911b.jpg" width="90" height="70" />
-<img src="https://i.pinimg.com/564x/51/b5/4f/51b54f4f4a0c6b00c3990d9f140b463b.jpg" width="90" height="70" />
+<img src="https://i.pinimg.com/564x/81/42/cd/8142cd0dd5994b8234962e96aebf40be.jpg" width="200" height="200" /> <img src="https://i.pinimg.com/564x/05/3a/1b/053a1bf0756ccf37b51235a585c15384.jpg" width="200" height="200" /> <img src="https://i.pinimg.com/564x/72/38/cd/7238cd399668fa2e50f0508218b8911b.jpg" width="200" height="200" />
+<img src="https://i.pinimg.com/564x/51/b5/4f/51b54f4f4a0c6b00c3990d9f140b463b.jpg" width="200" height="200" />
 ---
 
 ```
