@@ -77,8 +77,8 @@ Digite o código =
 
 #### 3 - Monstrinhos do Jogo
 
-<img src="https://i.pinimg.com/564x/aa/df/5f/aadf5f9b1d5dd600411e110c4d8f3d76.jpg" width="200" height="200" /> <img src="https://i.pinimg.com/564x/07/bc/cd/07bccd1a8bb4ee6f36aeb2b1cb04572f.jpg" width="200" height="200" /> <img src="https://i.pinimg.com/564x/40/f1/6b/40f16bd738a4cd61e4b5b2f40a07083e.jpg" width="200" height="200" />
-<img src="https://static.wikia.nocookie.net/nintendo/images/7/71/Bowser.png/revision/latest?cb=20130309232419&path-prefix=pt-br" width="200" height="200" />
+<img src="https://i.pinimg.com/564x/aa/df/5f/aadf5f9b1d5dd600411e110c4d8f3d76.jpg" width="150" height="150" /> <img src="https://i.pinimg.com/564x/07/bc/cd/07bccd1a8bb4ee6f36aeb2b1cb04572f.jpg" width="150" height="150" /> <img src="https://i.pinimg.com/564x/40/f1/6b/40f16bd738a4cd61e4b5b2f40a07083e.jpg" width="150" height="150" />
+<img src="https://static.wikia.nocookie.net/nintendo/images/7/71/Bowser.png/revision/latest?cb=20130309232419&path-prefix=pt-br" width="150" height="150" />
 
 ```
 Monstrinhos do jogo:
@@ -90,8 +90,8 @@ Monstrinhos do jogo:
 
 #### ​​​​​4- Guardiões do Local​:
 ---
-<img src="https://i.pinimg.com/564x/81/42/cd/8142cd0dd5994b8234962e96aebf40be.jpg" width="200" height="200" /> <img src="https://i.pinimg.com/564x/05/3a/1b/053a1bf0756ccf37b51235a585c15384.jpg" width="200" height="200" /> <img src="https://i.pinimg.com/564x/72/38/cd/7238cd399668fa2e50f0508218b8911b.jpg" width="200" height="200" />
-<img src="https://i.pinimg.com/564x/51/b5/4f/51b54f4f4a0c6b00c3990d9f140b463b.jpg" width="200" height="200" />
+<img src="https://i.pinimg.com/564x/81/42/cd/8142cd0dd5994b8234962e96aebf40be.jpg" width="150" height="150" /> <img src="https://i.pinimg.com/564x/05/3a/1b/053a1bf0756ccf37b51235a585c15384.jpg" width="150" height="150" /> <img src="https://i.pinimg.com/564x/72/38/cd/7238cd399668fa2e50f0508218b8911b.jpg" width="150" height="150" />
+<img src="https://i.pinimg.com/564x/51/b5/4f/51b54f4f4a0c6b00c3990d9f140b463b.jpg" width="150" height="150" />
 ---
 
 ```
