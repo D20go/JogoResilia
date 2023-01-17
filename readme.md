@@ -107,8 +107,8 @@ Guardiões do Local:
  
 | Portal  | imagem | Portal | imagem |   
 | ------- | ------ | ------ | ------ |
-|**Portal do Jardim**|![PORTAL_JARDIM](https://user-images.githubusercontent.com/78969637/212909741-574181b7-9bef-47ee-b24b-4f9bab7d3b61.jpg)|**Portal da Floresta**|![PORTAL_FLORESTA](https://user-images.githubusercontent.com/78969637/212910102-70da93a6-f8a1-4259-a4b9-08229cd323e7.jpg)
-|**Portal do Deserto**|![IMAGEM_DESERTO](https://user-images.githubusercontent.com/78969637/212912134-00c8a65d-e46d-4643-af89-aa00ec824dd3.png)|**Portal da Montanha**|![PORTAL_MONTANHA](https://user-images.githubusercontent.com/78969637/212912313-a81ab475-cdf6-4127-85cd-819a0e217354.jpg)|
+|**Jardim**|![PORTAL_JARDIM](https://user-images.githubusercontent.com/78969637/212909741-574181b7-9bef-47ee-b24b-4f9bab7d3b61.jpg)|**Floresta**|![PORTAL_FLORESTA](https://user-images.githubusercontent.com/78969637/212910102-70da93a6-f8a1-4259-a4b9-08229cd323e7.jpg)
+|**Deserto**|![IMAGEM_DESERTO](https://user-images.githubusercontent.com/78969637/212912134-00c8a65d-e46d-4643-af89-aa00ec824dd3.png)|**Montanha**|![PORTAL_MONTANHA](https://user-images.githubusercontent.com/78969637/212912313-a81ab475-cdf6-4127-85cd-819a0e217354.jpg)|
  
  
 #### 6 - Chaves do Portal
