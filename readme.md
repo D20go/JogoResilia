@@ -37,10 +37,11 @@
     [2] Escolher personagem
     [3] Monstrinhos do jogo
     [4] Guardiões do local
-    [5] Chaves do Portal
-    [6] Cenários do jogo
-    [7] Time de Desenvolvimento
-    [8] Simulação
+    [5] Portal
+    [6] Chaves do Portal
+    [7] Cenários do jogo
+    [8] Time de Desenvolvimento
+    [9] Simulação
 
 #### ​​​​​1 - Ler roteiro do jogo ​​: 
 ```python
@@ -102,8 +103,15 @@ Guardiões do Local:
 [4] Dindinho - Duende Alado
 ```
 
+ #### 5 - Portal
  
-#### 5 - Chaves do Portal
+| Portal  | imagem | Portal | imagem |   
+| ------- | ------ | ------ | ------ |
+|**Portal do Jardim**|![PORTAL_JARDIM](https://user-images.githubusercontent.com/78969637/212909741-574181b7-9bef-47ee-b24b-4f9bab7d3b61.jpg)|**Portal da Floresta**|![PORTAL_FLORESTA](https://user-images.githubusercontent.com/78969637/212910102-70da93a6-f8a1-4259-a4b9-08229cd323e7.jpg)
+|**Portal do Deserto**|![IMAGEM_DESERTO](https://user-images.githubusercontent.com/78969637/212912134-00c8a65d-e46d-4643-af89-aa00ec824dd3.png)|**Portal da Montanha**|![PORTAL_MONTANHA](https://user-images.githubusercontent.com/78969637/212912313-a81ab475-cdf6-4127-85cd-819a0e217354.jpg)|
+ 
+ 
+#### 6 - Chaves do Portal
  
 | chave  | imagem | chave | imagem |   
 | ------ | ------ | ----- | ------ |
@@ -113,7 +121,7 @@ Guardiões do Local:
  
 
  
-#### 6 - Cenários do Jogo
+#### 7 - Cenários do Jogo
 
 | cenário | imagem |      
 | ------ | ------ |
@@ -122,7 +130,7 @@ Guardiões do Local:
 | **O sol de quase um deserto**| <img src="https://i.pinimg.com/564x/a6/06/a8/a606a8a9b0eed507ecf4645e01d9bae4.jpg" width="500" height="250" /> |
 |**Subindo pelas montanhas**| <img src="https://i.pinimg.com/564x/8f/73/11/8f73110a28511d6dafee65c59f86d8f1.jpg" width="500" height="250" /> |
 
-#### 7- Time de Desenvolvimento
+#### 8- Time de Desenvolvimento
 
 ## 🤝 TIME DE DESENVOLVEDORES
 ---
@@ -144,7 +152,7 @@ Guardiões do Local:
 
 [![Linkedin Badge](https://camo.githubusercontent.com/4bc266bbe995784ed0fcfb683a60a2385759619892ed1965881a494327550900/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c7563617363616e656c6c612d6461646f732f)](https://www.linkedin.com/in/thiagosilvafarias)
 
-#### 8- Simulação
+#### 9- Simulação
 
 ### ​​​​**Escolhendo o personagem Lico** <img src="https://i.pinimg.com/736x/9e/bf/f6/9ebff6d89aefb97cda68c4ebd5297511.jpg" width="30" height="30"> 
 
